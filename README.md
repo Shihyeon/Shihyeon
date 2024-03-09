@@ -1,4 +1,14 @@
-### Hi there 👋
+### About me
+
+- Undergraduate researcher at the laser optics lab
+- Department of Physics, Senior year
+
+---
+
+### GitHub Stats
+
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shihyeon&layout=compact&hide=issues" alt="Git Prim stats" height="160px" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Shihyeon" alt="Git stats" height="160px" /></a>
 
 <!--
 **Shihyeon/Shihyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
