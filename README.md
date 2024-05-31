@@ -1,8 +1,10 @@
 ### About me
 
-- Undergraduate researcher at the laser optics lab.
-- Department of Physics, Senior year
-- Develop Minecraft mods and plugins as a hobby
+- Undergraduate researcher at the Laser Optics Lab.
+- Senior year, Department of Physics
+- Developing software for research equipment control
+- Developing Minecraft mods and plugins as a hobby
+> Proficient in Python, Java, and C
 
 ---
 
