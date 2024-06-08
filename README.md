@@ -4,7 +4,8 @@
 - Senior year, Department of Physics
 - Developing software for research equipment control
 - Developing Minecraft mods and plugins as a hobby
-> Intermediate in Python, Java, and C
+
+  > Intermediate in Python, Java, and C
 
 ---
 
