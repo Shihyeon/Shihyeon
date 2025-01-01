@@ -1,7 +1,7 @@
 ### About me
 
-- Undergraduate researcher at the Laser Optics Lab.
-- Senior year, Department of Physics
+- Graduate researcher at the Laser Optics Lab.
+- Master's program, Department of Physics.
 - Developing software for research equipment control
 - Developing Minecraft mods and plugins as a hobby
 
